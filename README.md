@@ -9,6 +9,6 @@
 <ul>
   <li>Download Project</li>
   <li>Configure config.ts</li>
-  <li>npm install</li>
+  <li>$ npm install</li>
   <li>$ npm run dev</li>
 </ul>
